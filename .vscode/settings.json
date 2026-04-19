@@ -1,0 +1,6 @@
+{
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportOptionalMemberAccess": "none"
+  },
+  "python.analysis.typeCheckingMode": "basic"
+}
